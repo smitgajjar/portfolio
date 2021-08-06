@@ -10,8 +10,8 @@
 table {
 	align-items: center;
 	justify-content: center;
-	overflow-x: scroll;
 	display: flex;
+	overflow: auto;
 	/*margin: 20px 20px 0 20px;*/
 }
 th, td {
