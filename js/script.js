@@ -12,10 +12,14 @@ function submit() {
 		"Chess"
 	];
 	let details=["",
-		"I love to watch TV Series",
-		"Anime details",
-		"Movie details",
-		"Chess details"
+		"Love to watch TV Series, mainly of these genres: sci-fi, thriller and sometimes drama/sitcom. \
+		My favourites include Breaking Bad, Twelve Monkeys, and The Expanse.",
+		"I started watching Anime recently, thanks to the recommendations by friends. \
+		One Punch Man, Death Note and Attack on Titan were fun to watch!",
+		"Hardly care about genres while watching movies, but yeah, make sure to check out the reviews first...\
+		:)",
+		"Didn't know all the rules until last year(yes, <i>En Passant</i> was gibberish to me). \
+		But then, got addicted to it. Reached 1050 on chess.com"
 	];
 	let selected_items=[];
 	let selected_items_str="";
